@@ -47,8 +47,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fwhatsapp%2FNovo%20Grupo%202.PNG?alt=media&token=198b895d-a8d8-48dd-8d94-676145626c24" width="200">
   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fwhatsapp%2FSearch%20de%20Contatos.PNG?alt=media&token=bc93737a-b410-46a8-bd09-1ff60b9d5f7b" width="200">
   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fwhatsapp%2FSearch%20de%20Conversas.PNG?alt=media&token=9e5aef19-c2bd-451c-b19e-ca75d6e20f41" width="200">
-  
-  
 </div>
 
 ## 📷 Video Demonstrativo
