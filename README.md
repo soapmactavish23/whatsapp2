@@ -52,9 +52,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 📷 Video Demonstrativo
 
 <div>
-<a href="https://youtu.be/SgruuQ4YX60" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=6i4oec1NWbc" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 ## 📥 Download
 
-  - [App](https://drive.google.com/file/d/16MEyB-DIcn9NjsP_K-a-F8CucIP06ha9/view?usp=sharing)
+  - [App](https://drive.google.com/file/d/1MLS65OU7H7Pw9dfQTza1W4by10kXP5r_/view?usp=sharing)
